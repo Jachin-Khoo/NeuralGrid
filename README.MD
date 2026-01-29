@@ -1,7 +1,3 @@
-Here is the `README.md` file tailored to the codebase provided.
-
----
-
 # AI Hydroponic Doctor
 
 ## Project Description
